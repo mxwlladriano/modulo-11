@@ -61,8 +61,9 @@ img{
 
 section h2{
     margin-bottom: 32px;
-    border-bottom: 3px solid #003cff;
+    border-bottom: 2px solid #003cff;
     padding: 16px;
+    color: blue;
 }
 
 .produto, img{
